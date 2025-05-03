@@ -39,4 +39,16 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alissonmdev&show_icons=true&theme=radical" alt="Alisson GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alissonmdev&layout=compact&theme=radical" alt="Top languages" />
+</p>
+
+---
+
+### 🌐 Conecte-se comigo
+
+[![Instagram](https://img.shields.io/badge/@alissonmdev-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/alissonmdev)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alissonmdev)
+
+---
+
+<p align="center">✨ Obrigado por visitar meu perfil!</p>
