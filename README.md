@@ -20,7 +20,7 @@ Sou um desenvolvedor apaixonado por tecnologia e aprendizado contínuo. Atualmen
 
 ## 📊 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seunome&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=alissonmdev&show_icons=true&theme=radical)
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=alissonmdev&layout=compact&theme=radical)
 
 ## 🌐 Conecte-se Comigo
