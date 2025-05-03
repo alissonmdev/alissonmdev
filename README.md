@@ -7,7 +7,7 @@ Sou um desenvolvedor apaixonado por tecnologia e aprendizado contínuo. Atualmen
 - 🔭 Atualmente trabalhando em projetos pessoais de automação com Python.
 - 🌱 Aprendendo mais sobre frameworks como Flask e FastAPI.
 - 💬 Pergunte-me sobre desenvolvimento web e análise de dados.
-- 📫 Como me encontrar: [seuemail@exemplo.com](mailto:alissonmachadodev@gmail.com)
+- 📫 Como me encontrar: [alissonmachadodev@gmail.com](mailto:alissonmachadodev@gmail.com)
 
 ## 🛠️ Tecnologias e Ferramentas
 
