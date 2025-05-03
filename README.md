@@ -46,8 +46,8 @@
 
 ### 🌐 Conecte-se comigo
 
-[![Instagram](https://img.shields.io/badge/@alissonmdev-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/alissonmdev)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alissonmdev)
+[![Instagram](https://img.shields.io/badge/@alissonmdev-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/alissonmachadoweb)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/alissonmdev](https://www.linkedin.com/in/alisson-machado-830277126/))
 
 ---
 
