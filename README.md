@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou [alissonmdev]
+# 👋 Olá! Eu sou Alisson
 
 ## 💻 Sobre Mim
 
