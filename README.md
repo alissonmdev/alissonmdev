@@ -12,7 +12,7 @@
 - 🎨 Atuo com **design gráfico, UI, branding e WordPress**
 - 💻 Desenvolvedor de sites institucionais, e-commerces e landing pages
 - ☁️ Em evolução para o ecossistema **Salesforce Development & Automations**
-- 📊 Expandindo conhecimentos em **dados (SQL, Power BI e Python)**
+- 📊 Expandindo conhecimentos em **dados (SQL, Apex e Java)**
 - 👨‍💼 Empreendedor à frente da **Alisson Design**
 - 📚 Sempre estudando novas formas de criar, automatizar e escalar soluções digitais
 
